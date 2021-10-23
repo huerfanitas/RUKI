@@ -1,0 +1,31 @@
+*{
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+.menu a { 
+	text-decoration: none;
+	color: white;
+}
+
+/* unvisited link */
+a:link {
+	background-color: #EA5D15;
+	color: white;
+}
+/* visited link */
+a:visited {
+	background-color: #ea9c75;
+	color: white;
+}
+/* mouse over link */
+a:hover {
+	background-color: #f2dbd0;
+	color: white;
+}
+
+.logo a {
+	background-color: white;
+}
+
+footer img{
+	max-width:64px;
+}
